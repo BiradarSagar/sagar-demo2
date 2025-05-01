@@ -1,0 +1,11 @@
+public class FacultyHandler {
+    
+    // Method to insert a new Faculty
+    public static void createFaculty(String name, String email, String department) {
+        Faculty__c faculty = new Faculty__c();
+        faculty.Name = name;
+        faculty.Email__c = email;
+        faculty.Department__c = department;
+        insert faculty;
+    }
+}
