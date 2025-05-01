@@ -30,3 +30,34 @@ def chatbot():
 
 # Run the chatbot
 chatbot()
+
+
+#Welcome to ShopMate Assistant! 🤖
+#Type 'exit' to end the chat.
+
+#You: hello
+#Bot: Hi there! How can I help you today?
+
+#You: what is your return policy
+#Bot: You can return any product within 30 days of delivery.
+
+#You: how do i return a product
+#Bot: To return a product, go to 'My Orders', select the item and click 'Return'.
+
+#You: what are your working hours
+#Bot: Our customer service is available 24/7!
+
+#You: where is my order
+#Bot: Please login to your account and check 'My Orders' for the latest tracking information.
+
+#You: do you ship internationally
+#Bot: Yes, we ship to over 50 countries. Shipping charges may apply.
+
+#You: thank you
+#Bot: You're welcome! 😊 Anything else I can help you with?
+
+#You: bye
+#Bot: Goodbye! Have a great day! 👋
+
+#You: exit
+#Bot: Thanks for chatting with us! 👋
